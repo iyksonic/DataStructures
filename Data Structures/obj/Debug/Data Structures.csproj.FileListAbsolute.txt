@@ -1,0 +1,6 @@
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\Data Structures\Data Structures\bin\Debug\Data Structures.exe.config
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\Data Structures\Data Structures\bin\Debug\Data Structures.exe
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\Data Structures\Data Structures\bin\Debug\Data Structures.pdb
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\Data Structures\Data Structures\obj\Debug\Data Structures.csprojResolveAssemblyReference.cache
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\Data Structures\Data Structures\obj\Debug\Data Structures.exe
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\Data Structures\Data Structures\obj\Debug\Data Structures.pdb
